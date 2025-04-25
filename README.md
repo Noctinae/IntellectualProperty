@@ -29,8 +29,7 @@ This repository constitutes timestamped proof of creation and ownership.
 ## Contact
 
 For any inquiries regarding the use or licensing of these concepts:
-- Owner: St3py
-- GitHub Profile: [[Lien GitHub](https://github.com/Ste3py)]
+- Owner: [[St3py](https://github.com/Ste3py)]
 
 ---
 
