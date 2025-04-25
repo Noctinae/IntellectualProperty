@@ -8,9 +8,9 @@ It establishes public evidence of authorship and intellectual property as of the
 
 ## Repository Information
 
-- Repository Owner: ![Owner](https://img.shields.io/badge/Owner-Ste3py-blue)
-- Repository Creation Date: ![Creation Date](https://img.shields.io/badge/Created-26%20April%202025-blue)
-- Last Update: ![Last Commit](https://img.shields.io/github/last-commit/Ste3py/IntellectualProperty?label=Last%20Commit)
+ ![Owner](https://img.shields.io/badge/Owner-Ste3py-blue)
+ ![Creation Date](https://img.shields.io/badge/Created-26%20April%202025-blue)
+ ![Last Commit](https://img.shields.io/github/last-commit/Ste3py/IntellectualProperty?label=Last%20Commit)
 
 ## Intellectual Property
 
