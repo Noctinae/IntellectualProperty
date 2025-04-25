@@ -25,7 +25,7 @@ This repository constitutes timestamped proof of creation and ownership.
 - **PharaDex** – Name and derivatives
 - **La Grange** – Name and derivatives
 - **Le QG** – Name and derivatives
-- **PharaDex is my Copilot** - Slogan
+- "**PharaDex is my Copilot**" - Slogan
 - **Mechanical Evolved** - Name and derivatives
 - **SteepCorp** - Name and derivatives
 - **SteepTech** - Name and derivatives
@@ -36,7 +36,7 @@ This repository constitutes timestamped proof of creation and ownership.
 ## Contact
 
 For any inquiries regarding the use or licensing of these concepts:
-- Owner: [[St3py](https://github.com/Ste3py)]
+- Owner: [St3py](https://github.com/Ste3py)
 
 ---
 
