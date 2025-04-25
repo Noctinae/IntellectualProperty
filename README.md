@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository serves as an official, timestamped archive of original concepts, names, slogans, designs, and systems created by [Ton Nom Complet ou Entité Officielle].
+This repository serves as an official, timestamped archive of original concepts, names, slogans, designs, and systems created by **Ste3py**.
 
 It establishes public evidence of authorship and intellectual property as of the date of the initial commit, and subsequent documented updates.
 
@@ -22,9 +22,16 @@ This repository constitutes timestamped proof of creation and ownership.
 
 ## Content Summary
 
-- PharaDex –> Name
-- La Grange –> Name
-- Le QG –> Name
+- **PharaDex** – Name and derivatives
+- **La Grange** – Name and derivatives
+- **Le QG** – Name and derivatives
+- **PharaDex is my Copilot** - Slogan
+- **Mechanical Evolved** - Name and derivatives
+- **SteepCorp** - Name and derivatives
+- **SteepTech** - Name and derivatives
+- **SteepIndustry** - Name and derivatives
+- **PharaTech** - Name and derivatives
+- **PharaIndustry** - Name and derivatives
 
 ## Contact
 
