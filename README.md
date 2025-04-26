@@ -60,7 +60,7 @@ Any use, reproduction, or distribution of such derivatives without prior express
 
 ---
 
-## Content Summary
+## List of Protected Elements
 
 - **PharaDex** – Concepts, Name and derivatives
 - **La Grange** – Name and derivatives
@@ -72,6 +72,16 @@ Any use, reproduction, or distribution of such derivatives without prior express
 - **SteepIndustry** - Name and derivatives
 - **PharaTech** - Name and derivatives
 - **PharaIndustry** - Name and derivatives
+- 
+---
+
+## Update Validity
+
+Any addition, modification, or removal of an element within the "Protected Works" section is considered effective immediately upon the corresponding commit being recorded in this repository.
+
+Each commit timestamp constitutes a public and verifiable proof of the update's existence and date.
+
+---
 
 ## Contact
 
