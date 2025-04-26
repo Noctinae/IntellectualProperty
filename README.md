@@ -20,9 +20,49 @@ Unauthorized use, reproduction, distribution, or commercial exploitation of any 
 
 This repository constitutes timestamped proof of creation and ownership.
 
+---
+
+## Definitions
+
+### Definitions of "Protected Items"
+
+The "protected items" referenced in this archive include, but are not limited to:
+
+- **Names**: Titles, project names, organizational names, trademarks, and any distinctive designations associated with the owner.
+- **Slogans**: Promotional phrases, taglines, or brief statements associated with a product, service, or concept owned by the entity.
+- **Systems**: Technical frameworks, architectures, workflows, protocols, or any structured methods designed, developed, or proposed by the owner.
+- **Concepts**: Original ideas, designs, thematic elements, or intellectual structures articulated in any form, whether written, visual, digital, or otherwise.
+
+---
+
+### Definition of "Derivatives"
+
+For the purposes of this archive, the term "derivatives" covers any and all direct or indirect:
+
+- Adaptations
+- Variations
+- Evolutions
+- Improvements
+- Translations
+- Reinterpretations
+- Rebrandings
+- Alternative implementations
+- Thematic or conceptual extensions
+
+Whether such derivatives concern:
+
+- Names (including translated, abbreviated, or reformulated forms),
+- Slogans (including localized, paraphrased, or adapted versions),
+- Systems (including technical modifications, upgrades, or integrations),
+- Concepts (including reworked, inspired, or evolved versions).
+
+Any use, reproduction, or distribution of such derivatives without prior express written consent constitutes a violation of the intellectual property rights stated herein.
+
+---
+
 ## Content Summary
 
-- **PharaDex** – Name and derivatives
+- **PharaDex** – Concepts, Name and derivatives
 - **La Grange** – Name and derivatives
 - **Le QG** – Name and derivatives
 - "**PharaDex is my Copilot**" - Slogan
