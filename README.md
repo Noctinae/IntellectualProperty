@@ -86,7 +86,7 @@ Each commit timestamp constitutes a public and verifiable proof of the update's 
 ## Contact
 
 For any inquiries regarding the use or licensing of these concepts:
-- Owner: [St3py](https://github.com/Ste3py)
+- Owner: [Noctinae](https://github.com/noctinae)
 
 ---
 
