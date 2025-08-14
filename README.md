@@ -8,9 +8,9 @@ It establishes public evidence of authorship and intellectual property as of the
 
 ## Repository Information
 
- ![Owner](https://img.shields.io/badge/Owner-Ste3py-blue)
+ ![Owner](https://img.shields.io/badge/Owner-Noctinae-blue)
  ![Creation Date](https://img.shields.io/badge/Created-26%20April%202025-blue)
- ![Last Commit](https://img.shields.io/github/last-commit/Ste3py/IntellectualProperty?label=Last%20Commit)
+ ![Last Commit](https://img.shields.io/github/last-commit/Noctinae/IntellectualProperty?label=Last%20Commit)
 
 ## Intellectual Property
 
@@ -86,8 +86,8 @@ Each commit timestamp constitutes a public and verifiable proof of the update's 
 ## Contact
 
 For any inquiries regarding the use or licensing of these concepts:
-- Owner: [Noctinae](https://github.com/noctinae)
+- Owner: [Noctinae](https://github.com/Noctinae)
 
 ---
 
-© 2025 - St3py – All rights reserved.
+© 2025 - Noctinae – All rights reserved.
